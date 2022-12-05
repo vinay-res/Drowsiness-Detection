@@ -3,6 +3,6 @@
 
 # Setting up environment\
   go to project folder:
-    type commands : python3 -m venv "env_name"
+    type commands : python3 -m venv "env_name" \
                     source env_name/bin/activate
-                    
+
